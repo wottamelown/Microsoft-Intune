@@ -71,6 +71,42 @@
 <img width="2810" height="1750" alt="image" src="https://github.com/user-attachments/assets/a32f50e2-0cf5-4d36-bfae-f9384ea20162" />
 
 5. We can change ownership of the device if it appears as personal from Entra ID > Devices > Properties then select corporate. 
-6. For Apple devices, we need to conifgure the APNs Apple Push notification certificates. It allows the apple devices to trust the intune to have the visiblity. 
+6. For Apple devices, we need to conifgure the APNs Apple Push notification certificates. It allows the apple devices to trust the intune to have the visiblity.
+7. iOS devices are enrolled through portal only.
+8. Android devices are controlled throuhg "intune company portal application on GooglePlayStore".
+
+-- Device Configuration Profiles --
+1. Configuration profiles are enforced device behavior. Like blocking USBs.
+2. Settings catalog (modern+recommended) deepest wildest configuration coverage. Searchable and flexible.
+3. Templates (Pre-Grouped): these are pre-built can be faster to deploy.
+4. Properties catalog: collects device inventory, hHW, Does not enforce settings.
+5. Policy status shows the policy has been under success, pending or Error/conflict.
+6. Endpoint validation checks for check-in status, local behavior, event logs.
+
+7. We have created the Base windows hardening policy through settings catalogue.
+
+<img width="2810" height="1750" alt="image" src="https://github.com/user-attachments/assets/6996b7ee-66cb-42f0-8e62-3986035f7756" />
+
+------Policy for Wifi enforcement-------
+
+<img width="2846" height="1750" alt="image" src="https://github.com/user-attachments/assets/bb7a2068-d651-4be5-8b05-420b6484e2c2" />
+<img width="2846" height="1750" alt="image" src="https://github.com/user-attachments/assets/eb7f64a4-7ad3-4e51-8959-c89fbf3bf2d9" />
+<img width="2846" height="1750" alt="image" src="https://github.com/user-attachments/assets/eb5c3eb2-dd71-4eff-9c3c-295633968658" />
+
+-- Creating the Device USB & Camera restriction policy --
+
+1. We will use templates instead of settings catalog. Because blocking USB is quite common. Available in templates menu.
+
+<img width="2846" height="1750" alt="image" src="https://github.com/user-attachments/assets/6da7814c-163d-4c83-81a1-bce8302050d1" />
+
+<img width="2846" height="1750" alt="image" src="https://github.com/user-attachments/assets/c730127f-7ae2-42e7-ac0d-a996e96c7efd" />
+
+<img width="2846" height="1750" alt="image" src="https://github.com/user-attachments/assets/7eb13b9b-94da-4715-8b6f-abc3384f3a70" />
+
+
+
+
+
+
 
 
