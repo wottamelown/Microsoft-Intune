@@ -103,7 +103,16 @@
 
 <img width="2846" height="1750" alt="image" src="https://github.com/user-attachments/assets/7eb13b9b-94da-4715-8b6f-abc3384f3a70" />
 
-s
+-- Device Compliance & Conditional Access --
+
+1. Device Compliance comes as if the device is compliant or not.
+2. If the device is non-compliant, then some of the restrictions would be placed on the device.
+3. These restrictions are called Conditional Access policies.
+
+-- Security baselines --
+
+1. Security Baselines are the Microsoft Recommended security policies or templates we can say to be pushed towards the devices in bulk.
+2. But it should not conflict with the device configuration profiles. 
 
 
 
