@@ -129,5 +129,22 @@
 
 <img width="2094" height="1296" alt="image" src="https://github.com/user-attachments/assets/c2127d73-95df-44e5-bc10-a82f998d58be" />
 
+11. Now we can see the Intune admin center is also showing the Microsoft Defender status is availabe.
+
+12. <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/72716c2d-bb37-4bff-a1f3-49855d339e9f" />
+
+13. <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/466969a6-363b-4105-b563-f870484bab49" />
+
+14. Now Here we will configure the EndPoint Configuration Profile using the Pre-Defined EndPoint Security Policy.
+15. We can Configure using Pre Defined. However manual deployment can be done as well.
+
+16. <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/70b84a6e-a2ae-429b-9478-d4b55fa5716e" />
+
+17. <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/9b913c55-28f6-404d-86a7-725af59beff2" />
+
+18. 
+
+
+
 
 
