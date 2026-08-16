@@ -114,8 +114,20 @@
 1. Security Baselines are the Microsoft Recommended security policies or templates we can say to be pushed towards the devices in bulk.
 2. But it should not conflict with the device configuration profiles. 
 
+-- Microsoft Defender For Endpoint --
+1. If Entra ID authenticates, intune manages the device. Then the Defender for Endpoint is the complete XDR concept.
+2. Defender for endpoint send the live telemetry of the device and the Intune makes decision making according to that.
+3. Defender does not only works on the signature based detections like normal antivirus. Instead it observes the pattern and analytics or abnormal behaviors in the OS. i.e. CPU spike.
+4. The telemetry could be network, system, antivirus, file events. 
+5. When the Defender detects the nomally, it generates the alerts, create timestamps, reduce alert nosie for the analysis.
+6. Once Defender detects a nomally it automatically runs AIR (Automated Investigation & Response) fixes the issue without human intervention.
+7. It stops malicious processes, does the device isolation, Contains the threats quickly.
+8. Defender for Endpoint can stop the lateral movement of the threat, data loss and limits the attack's damage early as possible.
+9. The full visibility shows up on the DEFENDER PORTAL under Security.
 
+10. Now for the intune x Defender to work together, we need to enable the Microsoft Intune connection from the Security Portal > Settings > EndPoints > Microsoft Intune Connection.
 
+<img width="2094" height="1296" alt="image" src="https://github.com/user-attachments/assets/c2127d73-95df-44e5-bc10-a82f998d58be" />
 
 
 
