@@ -142,7 +142,21 @@
 
 17. <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/9b913c55-28f6-404d-86a7-725af59beff2" />
 
-18. 
+18. <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/b34e71f6-a196-4c89-941e-af537b929e75" />
+
+19. Here we can see the security Threat Score, recommendations, timeline, incidents and alerts.
+20. Now we will create a custom detection rule that will work on specified app powershell if the eicar is executed. 
+
+21. <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/c6247e15-a685-49d5-9925-e98d59ecc6a4" />
+
+22. <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/a4584cca-31c3-4462-83a7-1007954af3ec" />
+
+23. Now we will Isolate the device. 
+24.   <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/a2442310-2165-429e-b0b8-219c123a0ca5" />
+
+
+
+
 
 
 
