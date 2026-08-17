@@ -155,6 +155,26 @@
 24.   <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/a2442310-2165-429e-b0b8-219c123a0ca5" />
 
 
+-- Now We will See Completely ZTNA: Intune + Conditional Access Policies + Defender For End Point + Risk Score In Action --
+
+25. First we will create a compliance policy. Which will mark the device non-compliant.
+
+26. <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/7ab597bf-bf48-42a1-ba38-6e5e63783e77" />
+
+27. <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/e4f06f87-bbed-4cb8-9f04-2a293d16a262" />
+
+28. Then we will create a confitional access policy: That if the device is marked out of compliance then this policy will trigger.
+
+29. <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/ae30eae6-77f1-4e7c-afd4-6bf1e2494e52" />
+
+30. Now we will go to the Advanced Hunting, write the test KQL and setup an alert,
+
+31. <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/1c093cac-95df-42e3-90e6-85f26b2c72b2" />
+
+32. <img width="2860" height="1784" alt="image" src="https://github.com/user-attachments/assets/02de2371-d8f6-4e47-9f9a-93f152dba384" />
+
+
+
 
 
 
