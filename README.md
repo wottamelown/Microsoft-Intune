@@ -175,8 +175,13 @@
 
 
 
+-- MAM / Application Management with Intune --
 
-
+1. We can configure intune to remotely push or manage the devices EndPoints.
+2. Intune supports win32, MSI, MS Store, .exe & Line Of Business applications.
+3. Most softwares are packaged into win32 and installed silently.
+4. MDM also implements application protection polcies. Like what apps are allowed to be used.
+5. Supporting BYOD concepts. 
 
 
 
