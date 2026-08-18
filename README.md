@@ -177,11 +177,43 @@
 
 -- MAM / Application Management with Intune --
 
-1. We can configure intune to remotely push or manage the devices EndPoints.
-2. Intune supports win32, MSI, MS Store, .exe & Line Of Business applications.
-3. Most softwares are packaged into win32 and installed silently.
-4. MDM also implements application protection polcies. Like what apps are allowed to be used.
-5. Supporting BYOD concepts. 
+33. We can configure intune to remotely push or manage the devices EndPoints.
+34. Intune supports win32, MSI, MS Store, .exe & Line Of Business applications.
+35. Most softwares are packaged into win32 and installed silently.
+36. MAM also known as  application protection polcies. Like what apps are allowed to be used.
+37. Supporting BYOD concepts.
+38. It is recommended to install the apps for the users from the application MAM deployment package.
+39. MDM = Device Control
+40. MAM = App & Data Control
+41. Works on Managed & Unmanaged devices.
+42. MAM examples: Copy/Paste Restrictions, WhatsApp file transfer restriction, Save-as & data leakage protection, app-level encryption. MAM in BYOD scenarios: Work Profile restrictions.
+43. There might be a delay installing apps since it is not SCCM-style.
+
+-- Deployment of a Win32 App --
+
+44. We need to create a folder on Admin machine named as 7zip, Tools
+45. We need to download, the (( Microsoft-Win32-Content-Prep-Tool ))
+46. This tool generates .intunewin file which is used by intune to push the apps.  
+
+47. We will download the setup file just like AZCOPY from github "Microsoft Intune Content Prep Tool".
+48. <img width="1810" height="1026" alt="image" src="https://github.com/user-attachments/assets/ebcb7e88-3131-4903-8a78-d1536f9e8c09" />
+
+49. <img width="2658" height="1496" alt="image" src="https://github.com/user-attachments/assets/a6ecbc0c-5856-4787-91ff-44d893b176bd" />
+
+50. <img width="2658" height="1496" alt="image" src="https://github.com/user-attachments/assets/bf0e8e25-354a-4247-9d57-c6c333c55e1c" />
+
+51. <img width="2658" height="1496" alt="image" src="https://github.com/user-attachments/assets/2cb3669d-4d41-466f-872a-d34a852145f7" />
+
+52. <img width="2658" height="1496" alt="image" src="https://github.com/user-attachments/assets/5832e310-ca64-4137-9b91-adea6e717840" />
+
+53. <img width="2658" height="1496" alt="image" src="https://github.com/user-attachments/assets/5c2d016e-4a41-4732-bc11-99d1b21cef57" />
+
+54. <img width="2658" height="1496" alt="image" src="https://github.com/user-attachments/assets/d59e1a39-2331-498d-a966-4b37ec74bb82" />
+
+
+
+
+
 
 
 
