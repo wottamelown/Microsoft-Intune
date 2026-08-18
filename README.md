@@ -210,6 +210,11 @@
 
 54. <img width="2658" height="1496" alt="image" src="https://github.com/user-attachments/assets/d59e1a39-2331-498d-a966-4b37ec74bb82" />
 
+-- Now we will Deploy Microsoft Store App --
+
+55. <img width="2854" height="1806" alt="image" src="https://github.com/user-attachments/assets/3e448c7c-5c1d-467b-bd55-df54f0c99ad0" />
+
+56. <img width="2854" height="1806" alt="image" src="https://github.com/user-attachments/assets/aae586c3-00d5-49ac-ad5f-391bd92f9ec1" />
 
 
 
