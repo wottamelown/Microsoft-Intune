@@ -217,6 +217,19 @@
 56. <img width="2854" height="1806" alt="image" src="https://github.com/user-attachments/assets/aae586c3-00d5-49ac-ad5f-391bd92f9ec1" />
 
 
+-- App Protection Policy (MAM) on iOS/Android --
+
+57. For example: Outlook For Mobile app restriction, setup passcode to it and copy paste will not be allowed, cannot take a screenshot, file can be saved to phone, wipe data.
+   
+58. <img width="2854" height="1806" alt="image" src="https://github.com/user-attachments/assets/e2706407-b41a-4e72-bb54-93c8b38965b1" />
+
+59. <img width="2854" height="1806" alt="image" src="https://github.com/user-attachments/assets/f507ecae-e0fd-46fc-ba34-569d9b283a5c" />
+
+60. <img width="2854" height="1806" alt="image" src="https://github.com/user-attachments/assets/0909a16b-2115-4bab-8b01-988abc5473d6" />
+
+61. <img width="590" height="1278" alt="IMG_1310" src="https://github.com/user-attachments/assets/c3cb2d3a-bf3e-48a3-bac0-be8109cf74b5" />
+
+
 
 
 
