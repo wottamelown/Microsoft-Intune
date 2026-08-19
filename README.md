@@ -236,7 +236,20 @@
 62. A Attack Surface Reduction (ASR) in Microsoft Intune is a host-defense capability powered by Microsoft Defender Antivirus that blocks risky software behaviors routinely leveraged by malware such as weaponized Office macros, obfuscated scripts, and credential dumping. It blocks malicious behaviours. It enforces secure OS defaults at the OS level. 
 63. End Point Privelege Management: Temporary local admin rights exist only when needed. So ASR is reduced.
 64. Microsoft Defender Firewall: Built in host based firewall, controls inbound outbound network traffic. Even if the devices are connected to other networks the access is restricted.
-65. Defender firewall in 0 Trust: Firewall enforces least privelege networking Works with ASR, Defender, CA. 
+65. Defender firewall in 0 Trust: Firewall enforces least privelege networking Works with ASR, Defender, CA.
+
+-- Active Surface Reduction Policy --
+
+66. ASR policy basically prevents the apps to behave maliciously. For example: Child processes blocking.
+
+67. <img width="2856" height="1792" alt="image" src="https://github.com/user-attachments/assets/17b78674-4ada-4b1d-944f-fe5e3a40579b" />
+
+68. <img width="2856" height="1792" alt="image" src="https://github.com/user-attachments/assets/c3e93e70-1f78-4b87-87ce-f361545a69e6" />
+
+69. <img width="2856" height="1792" alt="image" src="https://github.com/user-attachments/assets/98d40859-be81-47b4-8b62-563631c950de" />
+
+
+ 
 
 
 
