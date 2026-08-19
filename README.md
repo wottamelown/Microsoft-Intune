@@ -233,7 +233,10 @@
 
 == Endpoint Security Hardening (ASR, Firewall, EPM) ===
 
-62. 
+62. A Attack Surface Reduction (ASR) in Microsoft Intune is a host-defense capability powered by Microsoft Defender Antivirus that blocks risky software behaviors routinely leveraged by malware such as weaponized Office macros, obfuscated scripts, and credential dumping. It blocks malicious behaviours. It enforces secure OS defaults at the OS level. 
+63. End Point Privelege Management: Temporary local admin rights exist only when needed. So ASR is reduced.
+64. Microsoft Defender Firewall: Built in host based firewall, controls inbound outbound network traffic. Even if the devices are connected to other networks the access is restricted.
+65. Defender firewall in 0 Trust: Firewall enforces least privelege networking Works with ASR, Defender, CA. 
 
 
 
