@@ -248,7 +248,23 @@
 
 69. <img width="2856" height="1792" alt="image" src="https://github.com/user-attachments/assets/98d40859-be81-47b4-8b62-563631c950de" />
 
-70. 
+70. Firewall Policy: We will allow or block app accordign to the ports, we will enable enforce the firewall across types of network.
+
+71. <img width="2854" height="1802" alt="image" src="https://github.com/user-attachments/assets/76f5ba0d-a551-49bc-a4b7-68d73c9d2f56" />
+
+72. <img width="2854" height="1802" alt="image" src="https://github.com/user-attachments/assets/32a5b6f1-d97e-4914-8945-061f5ed11c03" />
+
+73. <img width="2854" height="1802" alt="image" src="https://github.com/user-attachments/assets/7d880678-5421-43c1-9e91-3a9748b07e4a" />
+
+74. <img width="2854" height="1802" alt="image" src="https://github.com/user-attachments/assets/0b8e5da8-0c5a-4171-95df-0c6fdc459550" />
+
+75. <img width="2854" height="1802" alt="image" src="https://github.com/user-attachments/assets/8176d57b-9fbc-44cc-be04-07c295738472" />
+
+
+
+
+
+ 
 
 
  
