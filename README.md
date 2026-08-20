@@ -260,6 +260,22 @@
 
 75. <img width="2854" height="1802" alt="image" src="https://github.com/user-attachments/assets/8176d57b-9fbc-44cc-be04-07c295738472" />
 
+-- Section 9: Update Management: WUFB (Windows Update for Business) --
+
+76. Keeping everydevice upto date, stable and compliant.  WUFB reduces security risks of unpatches devices.
+77. Update the core 0 Trust control.
+78. Controls Feature Updates vs quality updates, Active hours, Balance enforcement vs productivity, minimizing disruption.
+79. Update rings are the local grouping of devices for update rollout. It reduces the blast radius of bad updates.
+80. User experience impacts the productivity, the biggest challenge is restart. Active hours are the base thing to implement since it delays the productivity hours.
+
+-- Creating the Windows Update for Business Update Rings --
+
+81. <img width="2854" height="1802" alt="image" src="https://github.com/user-attachments/assets/2059b4f8-5df9-4c60-9f39-61d0e09c9213" />
+
+82. <img width="2854" height="1802" alt="image" src="https://github.com/user-attachments/assets/ab4f14bf-8953-46c3-9a14-fd86d70983da" />
+
+83. 
+
 
 
 
